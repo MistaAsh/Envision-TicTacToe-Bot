@@ -12,7 +12,7 @@ The second type of bot will be a self-learning bot, which will learn how to opti
 ## Contributing Guidelines
 
 ### Setting Up
-- Fork the repo.
+- Fork the repository.
 - Clone the forked repo using `git clone <repo-url>` to desired directory.
 
 ### Pull Requests
@@ -38,13 +38,12 @@ The second type of bot will be a self-learning bot, which will learn how to opti
     ```cmd
     git commit -m "<commit-message>"
     ```
-- Push the changes to your forked repo. <br>
-    If you're working on a new branch:
+- Push the changes to your forked repo. If you're working on a new branch:
     ```cmd
     git push -u origin <branch-name>
     ```
     If the branch already exists:
-    ```
+    ```cmd
     git push
     ```
 - Create a `pull request`.
@@ -52,3 +51,12 @@ The second type of bot will be a self-learning bot, which will learn how to opti
 ### Keep in Mind
 - Use `meaningful small commits`. Refer to this [link](https://cbea.ms/git-commit/).
 - `Remember to fetch` changes from the upstream repo before working on something.
+
+<br>
+
+## Resources
+- [General Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome) - You need not got through all of this and there is no special need to do these assignments. 
+- [Reinforcement Learning course](https://www.coursera.org/specializations/reinforcement-learning#courses) - This course is a must for understanding the basics of Reinforcement Learning.
+- [Useful subtopics](https://www.javatpoint.com/artificial-intelligence-tutorial) - Make sure to read the articles once you feel you have a good understanding of ML. 
+- [Game Theory](https://www.coursera.org/learn/game-theory-1/home/welcome) - This course is optional, but is a very good resource to get into Game Dev, some of which we will be using for this project.
+- [Existing implementations](https://towardsdatascience.com/reinforcement-learning-implement-tictactoe-189582bea542) - This is a great resource for learning how to implement the TicTacToe game using RL.
