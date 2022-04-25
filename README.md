@@ -60,3 +60,4 @@ The second type of bot will be a self-learning bot, which will learn how to opti
 - [Useful subtopics](https://www.javatpoint.com/artificial-intelligence-tutorial) - Make sure to read the articles once you feel you have a good understanding of ML. 
 - [Game Theory](https://www.coursera.org/learn/game-theory-1/home/welcome) - This course is optional, but is a very good resource to get into Game Dev, some of which we will be using for this project.
 - [Existing implementations](https://towardsdatascience.com/reinforcement-learning-implement-tictactoe-189582bea542) - This is a great resource for learning how to implement the TicTacToe game using RL.
+- [Minimax](https://www.neverstopbuilding.com/blog/minimax) - Minimax implementation and explanation
