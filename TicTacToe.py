@@ -145,7 +145,19 @@ if(y==1):
      win1.append(board_turn_calculator101(w4,f11,p2))
   if(len(win1)!=0):
    d=win1.index(max(win1)) 
-   #print(win1)
+   print(win1)
+   if(win1.count(-7)==4 and win1.count(-1)==2):
+    e1=[]
+    for i in range(len(win1)):
+     if(win1[i]==-7):
+      e1.append(i)
+    d=e1[random.randint(0,3)]
+   elif(win1.count(-9)==2 and win1.count(-8)==2 and win1.count(-7)==2):
+    e1=[]
+    for i in range(len(win1)):
+     if(win1[i]==-8):
+      e1.append(i)
+    d=e1[random.randint(0,1)]
    f12=w[d]+[]
    board[w[d][0]][w[d][1]]=0
    print("board after computer's turn")
