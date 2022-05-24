@@ -145,7 +145,7 @@ if(y==1):
      win1.append(board_turn_calculator101(w4,f11,p2))
   if(len(win1)!=0):
    d=win1.index(max(win1)) 
-   print(win1)
+   #print(win1)
    if(win1.count(-7)==4 and win1.count(-1)==2):
     e1=[]
     for i in range(len(win1)):
