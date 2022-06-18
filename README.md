@@ -2,7 +2,7 @@
 
 ## Running Tic-Tac-Toe:
 
-1. Make sure [Python 3.6+](https://www.python.org/downloads/) is installed.
+1. Make sure [Python 3.8+](https://www.python.org/downloads/) is installed.
 2. Install [Pygame](https://www.pygame.org/news).
 3. Clone this repository :
 
@@ -36,8 +36,10 @@
 
 <br>
 
-<p align="center">
-<img src=r"preview\preview.png>
+<p align="center"><img src="preview/preview_1.png">
+<p align="center"><img src="preview/preview_2.png">
+<p align="center"><img src="preview/preview_3.png">
+<p align="center"><img src="preview/preview_4.png">
 </p>
 
 ## Introduction
